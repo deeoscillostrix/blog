@@ -12,6 +12,7 @@ _site
 
 # NPM dependencies
 node_modules
+package.json
 package-lock.json
 
 # IDE configurations
@@ -20,3 +21,5 @@ package-lock.json
 
 # Misc
 assets/js/dist
+.DS_Store
+new_post.sh
