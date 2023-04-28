@@ -2,7 +2,7 @@
 title: Hello World
 author: oscillo
 date: 2023-04-20 01:24:20 +0800
-categories: [intro, journal]
+categories: [intro]
 tags: [oscillo, journal]
 # comments: false
 # math: true
