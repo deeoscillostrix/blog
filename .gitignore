@@ -23,3 +23,5 @@ package-lock.json
 assets/js/dist
 .DS_Store
 new_post.sh
+# create_post.js
+_drafts
