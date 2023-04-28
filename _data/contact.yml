@@ -1,14 +1,22 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+# - type: github
+#   icon: "fab fa-github"
+
+- type: instagram
+  icon: "fab fa-instagram"
+  url: "https://instagram.com/deeoscillostrix"
 
 - type: twitter
   icon: "fab fa-twitter"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+- type: link
+  icon: "fa-solid fa-link"
+  url: "https://deeoscillostrix.github.io"
+
+# - type: email
+#   icon: "fas fa-envelope"
+#   noblank: true # open link in current tab
 
 - type: rss
   icon: "fas fa-rss"
@@ -26,3 +34,4 @@
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
+

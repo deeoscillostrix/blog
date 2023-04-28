@@ -1,3 +1,10 @@
+/**
+ * Feel free to utilize this file to create your draft posts for your Jekyll site if you like!
+ * This JS file runs in Node to automatically create a new draft post for a given time frame automatically.
+ *
+ * An alternative to this is by using Jekyll Compose: https://github.com/jekyll/jekyll-compose
+ */
+
 const fs = require('fs');
 const prompt = require('prompt-sync')({ sigint: true });
 /**
@@ -30,11 +37,17 @@ const CURRENT_TIMEZONE = `${TIMEZONE_OFFSET < 0 ? '+' : '-'}${String(
   Math.abs(TIMEZONE_OFFSET) / 60
 ).padStart(2, '0')}${String(Math.abs(TIMEZONE_OFFSET) % 60).padStart(2, '0')}`;
 
-let title, file_title;
-do {
-  title = prompt('Enter post title >> ');
-  file_title = String(title).toLowerCase().replace(' ', '-');
-} while (title === '' || title === null);
+// let title, file_title;
+// do {
+//   title = prompt('Enter post title >> ');
+//   file_title = String(title).toLowerCase().replace(' ', '-');
+// } while (title === '' || title === null);
+
+let title = prompt(
+  'Enter post title (keep empty to make post draft template) >> '
+);
+title = title === '' || title === null ? 'new-post' : title;
+let file_title = String(title).toLowerCase().replace(' ', '-');
 
 const FRONT_MATTER = `---
 title: ${title}
