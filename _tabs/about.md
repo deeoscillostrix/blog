@@ -24,8 +24,10 @@ Also, if you really know me irl, please don't expose me here.. this owl's beggin
 I hope that while maintaining a level of anonymity here, I am able to be as vulnerable and as truthful as possible in all of my posts.
 
 Other than that, I do hope you enjoy your stay here.
-Please take care, and this hoot wishes you well!
+Please take care, and this hoot wishes you well! 🦉
 
 **\- Oscillo Strix**
+
+> For you were called to freedom, brothers. Only do not use your freedom as an opportunity for the flesh, but through love serve one another. _- Galatians 5:13 (ESV)_
 
 <!-- ![oscillo-name](/assets/img/oscii_name.png) -->
