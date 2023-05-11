@@ -42,7 +42,7 @@ I'll admit, any paraphrasing of such conversations can be skewed to how I percei
 MCO was initially slated to last for about two weeks, but that number got extended.. multiplied by six.
 I don't exactly remember when this happened, but there came a point in the middle of this wretched two-month period where the Malaysian government announced the second phase of MCO.
 
-<iframe style="width: 100%; aspect-ratio: 16/9;" src="https://www.youtube-nocookie.com/embed/B_7-u_Sunmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% include embed/youtube.html id='B_7-u_Sunmg' %}
 
 Yeah, my mind continued to get screwed over and over.
 It was the same come Day 21.
