@@ -14,8 +14,7 @@ Beginning March 18, 2020, that fateful Wednesday, the backdoor-and-now-in-power 
 Um.. not the English acronym (MCO: Movement Control Order), rather the Malay acronym (PKP: Perintah Kawalan Pergerakan).
 
 ![Pikapi](/assets/img/Pikachu-Meme.gif){: width="100%"}
-
-> PKP. Pi-ka-pi.
+_PKP. Pi-ka-pi._
 
 There was a joke I don't find that amusing to hear anymore, that a lockdown like this would be any introvert's dream.
 Sure, if all they want to be is a hermit of all kinds of people, but though being quite introverted myself I still find the idea of being a hermit counterintuitive for my own sanity.
