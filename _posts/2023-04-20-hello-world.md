@@ -3,7 +3,7 @@ title: Hello World
 author: oscillo
 date: 2023-04-20 01:24:20 +0800
 categories: [intro]
-tags: [oscillo, journal]
+tags: [Oscillo, journal, TechnoTim, Cotes Chung]
 # comments: false
 # math: true
 ---

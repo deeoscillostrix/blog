@@ -3,7 +3,7 @@ title: About Missing People
 author: oscillo
 date: 2023-04-29 02:51:40 +0800
 categories: [reflections]
-tags: [oscillo, journal, twitter, kofeeo, Orlando_Fox, eunmao]
+tags: [Oscillo, journal, Twitter, Kofeeo, Orlando_Fox, eunmao]
 # comments: false
 # math: true
 ---
