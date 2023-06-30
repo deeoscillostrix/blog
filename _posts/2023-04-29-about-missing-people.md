@@ -17,3 +17,9 @@ Can't imagine why. (Nope, just kidding!)
 <p lang="en" dir="ltr">I&#39;m at that age where so many friends I&#39;ve made start to just.. only &quot;be there&quot; online. It&#39;s a blessing to have social media to stay in touch, but if you can, do drop them a text, nudge, or a call. Who knows, you listening to them may just be what both of you need.<br><br>🎨: <a href="https://twitter.com/Kofeeo?ref_src=twsrc%5Etfw">@Kofeeo</a> <a href="https://t.co/KHyr27QE2w">pic.twitter.com/KHyr27QE2w</a></p>&mdash; Strix &amp; Peas 🦉❄️ (@deezombiedude) <a href="https://twitter.com/deezombiedude/status/1648786560115183616?ref_src=twsrc%5Etfw">April 19, 2023</a>
 </blockquote> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!-- ![Oscii's Viral Tweet 2023](/assets/img/famous-oscii-tweet-2023.png) -->
+
+Just for comparison sake, here's what I thought was [my most liked and engaged tweet back in 2021](https://twitter.com/deezombiedude/status/1410452055764836359){:target="\_blank"} when I got my very first commission and doodle sheet from [OrlandoFox](https://afoxdraws.com){:target="\_blank"}:
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">It&#39;s been abt 3 days now, and I still can&#39;t stop having myself stare at this in awe. Definitely worth the long wait.. I wish I could&#39;ve seen this worked on live on stream though. Huge thanks to <a href="https://twitter.com/Orlando_Fox?ref_src=twsrc%5Etfw">@Orlando_Fox</a> for this beautiful Doodle Sheet! <a href="https://t.co/D5aJO8u4pQ">pic.twitter.com/D5aJO8u4pQ</a></p>&mdash; Strix &amp; Peas 🦉❄️ (@deezombiedude) <a href="https://twitter.com/deezombiedude/status/1410452055764836359?ref_src=twsrc%5Etfw">July 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
