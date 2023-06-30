@@ -92,3 +92,14 @@ Hug it out, if that makes it any better.
 Know very well that there are always people who care for you.
 In a world where some people say everything especially beliefs, emotions and feelings are superficial, even those you care who no longer cross paths can find solace knowing if you're well.
 You can do the same.
+
+<div style="text-align: center;">
+	<img src="/assets/img/oscihugg.png" alt="Oscii Hug"><br>
+	<caption style="font-style: italic;">
+		Hug it out, if that makes it any better. Art by 
+		<a href="https://twitter.com/eunmao" target="_blank">@eunmao</a><br><br>
+	</caption>
+</div>
+
+Special thanks to [Kofeeo](https://twitter.com/kofeeo){:target="\_blank"}, [Orlando Fox](https://twitter.com/Orlando_Fox){:target="\_blank"}, and [Eunmao](https://twitter.com/eunmao){:target="\_blank"} for the artwork showcased here!
+Do remember to always take care and this hoot wishes all of you well! 🦉
