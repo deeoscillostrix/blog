@@ -2,8 +2,8 @@
 title: Social Media Today
 author: oscillo
 date: 2023-06-30 15:31:55 +0800
-categories: [reflections]
-tags: [oscillo, journal]
+categories: [opinions, reflections]
+tags: [oscillo, journal, linkedin, twitter, social media]
 # comments: false
 # math: true
 ---
