@@ -95,10 +95,10 @@ You can do the same.
 
 <div style="text-align: center;">
 	<img src="/assets/img/oscihugg.png" alt="Oscii Hug"><br>
-	<caption style="font-style: italic;">
+	<!-- <caption style="font-style: italic;">
 		Hug it out, if that makes it any better. Art by 
 		<a href="https://twitter.com/eunmao" target="_blank">@eunmao</a><br><br>
-	</caption>
+	</caption> -->
 </div>
 
 Special thanks to [Kofeeo](https://twitter.com/kofeeo){:target="\_blank"}, [Orlando Fox](https://twitter.com/Orlando_Fox){:target="\_blank"}, and [Eunmao](https://twitter.com/eunmao){:target="\_blank"} for the artwork showcased here!
