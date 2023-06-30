@@ -18,13 +18,9 @@ Can't imagine why. (Nope, just kidding!)
 </blockquote> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<!-- ![Oscii's Viral Tweet 2023](/assets/img/famous-oscii-tweet-2023.png) -->
-
 Just for comparison sake, here's what I thought was [my most liked and engaged tweet back in 2021](https://twitter.com/deezombiedude/status/1410452055764836359){:target="\_blank"} when I got my very first commission and doodle sheet from [OrlandoFox](https://afoxdraws.com){:target="\_blank"}:
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">It&#39;s been abt 3 days now, and I still can&#39;t stop having myself stare at this in awe. Definitely worth the long wait.. I wish I could&#39;ve seen this worked on live on stream though. Huge thanks to <a href="https://twitter.com/Orlando_Fox?ref_src=twsrc%5Etfw">@Orlando_Fox</a> for this beautiful Doodle Sheet! <a href="https://t.co/D5aJO8u4pQ">pic.twitter.com/D5aJO8u4pQ</a></p>&mdash; Strix &amp; Peas 🦉❄️ (@deezombiedude) <a href="https://twitter.com/deezombiedude/status/1410452055764836359?ref_src=twsrc%5Etfw">July 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<!-- ![Oscii's Viral Tweet 2021](/assets/img/famous-oscii-tweet-2021.png) -->
 
 Side note, I've got all my commissioned art in a cloud storage at the moment.
 Still deciding whether or not I'd be putting them all publicly at some place where I can showcase them all, or if `refsheet.net` is a viable alternative. _Also, if you really love what you see in those tweets and wanna like and retweet them some more, go on ahead!_ 😂
