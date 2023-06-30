@@ -48,6 +48,8 @@ let title = prompt(
 );
 title = title === '' || title === null ? 'new-post' : title;
 let file_title = String(title).toLowerCase().replace(' ', '-');
+while (file_title.indexOf(' ') > -1)
+  file_title = String(title).toLowerCase().replace(' ', '-');
 
 const FRONT_MATTER = `---
 title: ${title}
